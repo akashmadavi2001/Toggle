@@ -31,12 +31,9 @@ body {
     box-shadow: inset 0 0 3px black;
     cursor: pointer;
     transform: scale(10);
-    /* remove 2*/
 }
 
 .toggle::after {
-    /* content: ''; */
-    /* remove 1*/
     top: 2px;
     left: 3px;
     width: 16px;
